@@ -89,4 +89,4 @@ Single table containing:
 2. Interact with visualizations for detailed views
 3. Export reports as needed
 
-🚀 **View the interactive dashboard here:** ![Spotify Dashboard](https://github.com/kouatcheu1/Spotify-Dashboard/blob/main/Spotify%20Analysis%20Dashboard.twbx)
+🚀 **View the interactive dashboard here:** [Spotify Dashboard](https://public.tableau.com/app/profile/samuel.kouatcheu/viz/SpotifyAnalysisDashboard_17385946484040/SpotifyDash)
